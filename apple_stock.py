@@ -1,4 +1,5 @@
-
+# Apple Stock Scrapper
+# Scrapping url https://finance.yahoo.com/quote/AAPL/history/
 import requests
 from bs4 import BeautifulSoup
 
